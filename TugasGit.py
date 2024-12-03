@@ -69,3 +69,4 @@ for i, d in data_panen.items():
         print(f'Lokasi {nama} dalam kondisi baik')
 
 # commit ke dua testing
+# menambahkan branch baru
