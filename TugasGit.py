@@ -68,5 +68,4 @@ for i, d in data_panen.items():
     else:
         print(f'Lokasi {nama} dalam kondisi baik')
 
-
-
+# commit ke dua testing
